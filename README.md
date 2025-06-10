@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:computer: **Ingeniero de software**
+:pencil: **generador de contenido**
+:eyeglasses: **TEST**
+
+### Vias de contacto
+
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+
+![Website](https://img.shields.io/badge/adn.com-up-green)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cualesmirock/repo01)
