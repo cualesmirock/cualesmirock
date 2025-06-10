@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 :computer: **Ingeniero de software**
+
 :pencil: **generador de contenido**
+
 :eyeglasses: **TEST**
 
 ### Vias de contacto
